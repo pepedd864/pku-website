@@ -16,12 +16,10 @@ npm init -y
 npm install
 ```
 3. 运行项目
-
 ```
 npm run dev
 ```
 4. 打包项目
-
 ```
 npm run build
 ```
